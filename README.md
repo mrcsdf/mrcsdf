@@ -8,7 +8,7 @@ Architecting private clusters, securing, initiatives commit at a time.
 ---
 
 ## 🔧 Current Focus
-- Building LLM-enabled automation pipelines with Bitwarden + GitHub SSO
+- Building LLM-enabled automation pipelines
 - Secure Dev Environments with DevDrive, mise, and Docker Compose
 - Zero Trust
 
