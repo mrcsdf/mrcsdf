@@ -10,7 +10,7 @@ Architecting private clusters, securing home labs, and leading ERG initiativesâ€
 ## ðŸ”§ Current Focus
 - Building LLM-enabled automation pipelines with Bitwarden + GitHub SSO
 - Secure Dev Environments with DevDrive, mise, and Docker Compose
-- Zero Trust HomeLab with WireGuard, Authelia, and Cloudflare Tunnels
+- Zero Trust
 
 ---
 
