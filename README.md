@@ -3,7 +3,7 @@
 🚀 Principal Engineer | 🛡️ Zero Trust Builder | 🧠 AI Infra Architect | 🎖️ Veteran | 🧩 Fixer of Broken Systems
 
 I code like I deploy: **modular, secure, and repeatable**.  
-Architecting private clusters, securing, and initiatives commit at a time.
+Architecting private clusters, securing, initiatives commit at a time.
 
 ---
 
