@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I’m Marcus
 
-<!--
-**mrcsdf/mrcsdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Principal Engineer | 🛡️ Zero Trust Builder | 🧠 AI Infra Architect | 🎖️ Veteran | 🧩 Fixer of Broken Systems
 
-Here are some ideas to get you started:
+I code like I deploy: **modular, secure, and repeatable**.  
+Architecting private clusters, securing home labs, and leading ERG initiatives—one script and commit at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Current Focus
+- Building LLM-enabled automation pipelines with Bitwarden + GitHub SSO
+- Secure Dev Environments with DevDrive, mise, and Docker Compose
+- Zero Trust HomeLab with WireGuard, Authelia, and Cloudflare Tunnels
+
+---
+
+## 🧠 Fun Fact
+I’ve led billion-dollar solutions for the world’s largest cloud and helped DoD go classified. Ask me about it.
