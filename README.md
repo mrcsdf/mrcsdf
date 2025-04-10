@@ -9,7 +9,7 @@ Architecting private clusters, securing, initiatives commit at a time.
 
 ## 🔧 Current Focus
 - Building LLM-enabled automation pipelines
-- Secure Dev Environments with DevDrive, mise, and Docker Compose
+- Secure Dev Environments
 - Zero Trust
 
 ---
